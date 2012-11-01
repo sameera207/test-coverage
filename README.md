@@ -2,6 +2,6 @@
 
 cloen the project  (git clone git://github.com/sameera207/test-coverage.git)
 
-open the index.html
+open "index.html"
 
 
